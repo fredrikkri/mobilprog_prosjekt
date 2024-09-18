@@ -1,0 +1,2 @@
+# mobilprog_prosjekt
+Mobilprogrammering gruppeprosjekt
